@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijaympal
+- 👋 Hi, I’m  vijay pal fom Indore India
 - 👀 I’m interested in javaScript
 - 🌱 I’m currently learning webdevelopment from udemy
 - 💞️ I’m looking for a entry elevel job
